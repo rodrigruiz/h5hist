@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: h5hist
+Version: 0.0.1
+Summary: A project to develop a library to read and write histograms into hdf5.
+Home-page: https://github.com/rodrigruiz/h5hist.git
+Author: Rodrigo G. Ruiz
+Author-email: rgruiz0001@gmail.com
+Project-URL: Bug Tracker, https://github.com/rodrigruiz/h5hist/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: boost_histogram
+Requires-Dist: h5py
+
+# h5hist
+a project to develop a library for histogram reading and writing into hdf5 files

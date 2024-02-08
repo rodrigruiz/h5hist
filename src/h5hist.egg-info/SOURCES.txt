@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/h5hist.egg-info/PKG-INFO
+src/h5hist.egg-info/SOURCES.txt
+src/h5hist.egg-info/dependency_links.txt
+src/h5hist.egg-info/requires.txt
+src/h5hist.egg-info/top_level.txt
